@@ -1,4 +1,4 @@
-326. Power of Three
+/* 326. Power of Three
 Solved
 Easy
 Topics
@@ -21,7 +21,7 @@ Example 3:
 
 Input: n = -1
 Output: false
-Explanation: There is no x where 3x = (-1).
+Explanation: There is no x where 3x = (-1). */
 
 
 #using simple method.
